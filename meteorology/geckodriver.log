@@ -1,0 +1,49 @@
+1524794622982	geckodriver	INFO	geckodriver 0.20.0
+1524794622990	geckodriver	INFO	Listening on 127.0.0.1:60924
+1524794626010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-profile" "C:\\Users\\luoys\\AppData\\Local\\Temp\\rust_mozprofile.NCHyemXyftxe"
+*** You are running in headless mode.
+1524794627304	Marionette	INFO	Enabled via --marionette
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1524794629400	Marionette	INFO	Listening on port 60937
+1524794629670	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\luoys\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=1, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=1, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+JavaScript error: http://data.cma.cn/static/artDialog/js/dialog-min.js, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://data.cma.cn/data/online.html?t=7, line 131: ReferenceError: $ is not defined
+Unable to read VR Path Registry from C:\Users\luoys\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\luoys\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\luoys\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524794310713	geckodriver::marionette	ERROR	Failed to stop browser process
+
+_win.cc, line 346
+[Child 10032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524729797557	geckodriver::marionette	ERROR	Failed to stop browser process
